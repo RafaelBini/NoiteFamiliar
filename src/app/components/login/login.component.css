@@ -1,0 +1,66 @@
+.big-container{
+    background-color: rgb(255, 244, 213);
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;  
+    align-items: center;
+}
+
+.container{
+    background-color: rgb(255, 206, 115);
+    height: 100px;
+    width: 65%;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    
+   
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 90px;
+    font-stretch: narrower;
+    line-height: 1.3;
+    text-align: center;
+    
+}
+
+.caixinha{
+    background-color: rgb(255, 228, 109);
+    height: 400px;
+    width: 30%;
+    margin-top: 50px;
+    margin: 50px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+
+    font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(250, 242, 242);
+    font-size: 50px;
+    font-stretch: extra-expanded;
+    line-height: 1.3;
+    text-align: center;
+    
+   
+}
+
+.caixinha1{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 80%;
+    margin-top: 50px;
+    margin: 50px;
+    border-radius: 15px;
+}
+
+.caixinha2{
+    background-color: rgb(75, 30, 30);
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    margin: 10px;
+    border-radius: 15px;
+    
+}
