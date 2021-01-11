@@ -1,0 +1,19 @@
+- login
+- home page 
+     -> minhas reuniões 
+           - buscar reunião
+           - deletar reunião
+           - nova reunião
+     -> familia
+          - cadastrar membro
+- nova reunião 
+          - dirigida 
+          - hino
+          - 1 oração
+          - mensagem
+          - tema mensagem
+          - tags mensagem
+          - 2 oração
+          - brincadeira
+          - foto
+          
